@@ -1,0 +1,99 @@
+header{
+	text-align: center;
+	background-color: white;
+	color: #8DB6CC;
+	margin: 0;
+	padding-top: 1px;
+	padding-bottom: 1px;
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+	font-size: 30px;
+}
+
+body {
+  margin: 0 auto;
+  	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+
+}
+
+.menu{
+    text-align: center;
+    
+}
+
+.tab{
+text-align: center;
+  display: inline-block;
+    margin: 10px;
+  padding: 12px;
+  width: 80px;
+      color: black;
+text-decoration: none;
+
+}
+
+.tab:hover{
+	color: white;
+}
+
+.picture{
+	text-align: center;
+
+}
+
+.text{
+	text-align: center;
+	font-size: 20px;
+	margin: 0;
+	padding: 5px 50px ;
+}
+
+.content{
+	padding-bottom: 10px;
+	background-color: #8DB6CC;
+	height: minmax(600px, 800px);
+}
+footer{
+	background-color: black;
+}
+
+.credit{
+	text-align: left;
+	color: white;
+	margin: 0;
+	padding:10px 5px;
+	padding-right: 0;
+	font-size: 13px;
+	display:inline-block
+}
+
+#name{
+	padding-left:0px;
+	color:blue;
+}
+
+#name:hover{
+	color:white;
+}
+#wiki{
+	float:right;
+	margin-right:0;
+
+}
+#wikiLink{
+	float:right;
+	margin-right:5px;
+	color:blue;
+}
+#wikiLink:hover{
+	color:white;
+}
+
+
+
+
+
+
+
+
+
+
